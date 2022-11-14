@@ -1,0 +1,26 @@
+{
+    "LoginButton": {
+        "In": "#loginButton",
+        "LogOut": ".logout > a"
+    },
+    "username": {
+        "input": "#username",
+        "data": {
+            "valid": "Admin"  
+        }
+    },
+    "password": {
+        "input": "#password",
+        "data": {
+            "valid": "Admin123"
+        }
+    },
+    "find": {
+        "visit" : "#coreapps-activeVisitsHomepageLink-coreapps-activeVisitsHomepageLink-extension",
+        "search": "#patient-search",
+        "select": "tbody > :nth-child(1) > :nth-child(2)",
+        "patientID": ".float-sm-right"
+    }
+}
+
+
