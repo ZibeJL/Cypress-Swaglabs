@@ -1,4 +1,4 @@
-# git clone https://github.com/ZibeJL/OpenMRSCy.git
+# git clone https://github.com/ZibeJL/Cypress-Swaglabs.git
 # In to the OpenMRSCy
 # npm install
 # npm test ( to run the test with Cypress )
