@@ -40,6 +40,9 @@ describe("SwagLabs | Login", () => {
         LoginPage.get.errorMessage().should("have.text", "Epic sadface: Password is required")
     })
 
-
+    // it('TC6 : Assert empty user message', () => {
+    //     cy.visit(("https://www.saucedemo.com/inventory.html"))
+    //     LoginPage.get.errorMessage().should("have.text", "Epic sadface: You can only access '/inventory.html' when you are logged in.")
+    // })
 
 })
